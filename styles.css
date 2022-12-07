@@ -1,0 +1,103 @@
+.logo-container {
+  width: 150px;
+}
+.navbar-container {
+  padding-left: 10%;
+  padding-right: 10%;
+}
+.buttonStyle {
+  background-color: #48c9b0;
+  height: 70px;
+}
+.research {
+  height: 400px;
+}
+.skipTextStyle {
+  color: orange;
+}
+.inputStyle {
+  height: 50px;
+}
+hr.solid {
+  border-top: 2px solid black;
+}
+body {
+  /* font-family: 'Poppins', sans-serif; 
+              */
+  font-family: "Playfair Display SC", serif;
+  font-family: "Poppins", sans-serif;
+  font-family: "Prata", serif;
+  font-family: "Volkhov", serif;
+  margin: 0px;
+}
+.h1 {
+  font-size: 45px;
+  font-weight: 700px;
+  color: white;
+  margin-left: 60px;
+}
+.ptag {
+  color: #828282;
+  margin-bottom: 40px;
+}
+.flexible-container {
+  display: flex;
+}
+
+.infoStyle {
+  width: 100%;
+  padding-left: 5%;
+
+  /* border-end-start-radius: 10px; */
+  /* border-top-left-radius: 10px; */
+}
+.h1Tag {
+  font-size: 25px;
+  color: white;
+}
+.infoStyle2 img {
+  border-top-right-radius: 10px;
+  border-end-end-radius: 10px;
+}
+.imageStyle {
+  width: 500px;
+  height: 450px;
+  margin-right: -200px;
+}
+.infoStyle2 {
+  border-end-end-radius: 15px;
+  width: 100%;
+}
+.container3 {
+  margin-top: 20px;
+  margin-left: 60px;
+  width: 300px;
+  border-radius: 10px;
+}
+.container1 {
+  margin-top: 70px;
+  /* justify-content: center; */
+  align-items: center;
+  width: 80%;
+  height: 550px;
+}
+.productive {
+  margin-top: 100px;
+}
+.productive1 {
+  margin-top: 150px;
+}
+.stayStyle {
+  font-size: 30px;
+}
+.seeTextStyle {
+  font-size: 13px;
+  text-decoration: underline;
+  color: #4bdada;
+}
+.container0 {
+  background-color: white;
+}
+.container1 {
+  background-color: white;
+}
